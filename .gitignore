@@ -3,3 +3,10 @@
 *.pyd
 __py
 **/__pycache__/
+
+# .egg-info
+mobile_sam.egg-info/
+
+# data
+images/
+output/
