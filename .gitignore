@@ -10,3 +10,6 @@ mobile_sam.egg-info/
 # data
 images/
 output/
+
+# weights
+*.onnx
